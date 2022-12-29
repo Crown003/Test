@@ -10,7 +10,7 @@ orientation = all
 osx.python_version = 3
 osx.kivy_version = 1.9.1
 fullscreen = 1
-android.api = 32
+android.api = 30
 android.archs = arm64-v8a, armeabi-v7a
 android.allow_backup = True
 
